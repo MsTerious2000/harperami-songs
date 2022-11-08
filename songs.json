@@ -1,0 +1,44 @@
+{
+    "songs": [
+        {
+            "title": "Daan Ng Bayan",
+            "composer": "M. V. Francisco",
+            "order": "Entrance",
+            "soprano": "https://harperami-choir.web.app/daan-ng-bayan/1.mp4",
+            "alto": "https://harperami-choir.web.app/daan-ng-bayan/2.mp4",
+            "tenor": "https://harperami-choir.web.app/daan-ng-bayan/3.mp4",
+            "bass": "https://harperami-choir.web.app/daan-ng-bayan/4.mp4",
+            "satb": "https://harperami-choir.web.app/daan-ng-bayan/5.mp4"
+        },
+        {
+            "title": "Himaya Sa Dios",
+            "composer": "M. Corpin",
+            "order": "Gloria",
+            "soprano": "https://harperami-choir.web.app/himaya-sa-dios-corpin/1.mp4",
+            "alto": "https://harperami-choir.web.app/himaya-sa-dios-corpin/2.mp4",
+            "tenor": "https://harperami-choir.web.app/himaya-sa-dios-corpin/3.mp4",
+            "bass": "https://harperami-choir.web.app/himaya-sa-dios-corpin/4.mp4",
+            "satb": "https://harperami-choir.web.app/himaya-sa-dios-corpin/5.mp4"
+        },
+        {
+            "title": "Isugid Ko",
+            "composer": "R. Villanueva",
+            "order": "Kyrie",
+            "soprano": "https://harperami-choir.web.app/isugid-ko/1.mp4",
+            "alto": "https://harperami-choir.web.app/isugid-ko/2.mp4",
+            "tenor": "https://harperami-choir.web.app/isugid-ko/3.mp4",
+            "bass": "https://harperami-choir.web.app/isugid-ko/4.mp4",
+            "satb": "https://harperami-choir.web.app/isugid-ko/5.mp4"
+        },
+        {
+            "title": "Kanimo Igasa",
+            "composer": "A. Baculna",
+            "order": "Offertory",
+            "soprano": "https://harperami-choir.web.app/kanimo-igasa/1.mp4",
+            "alto": "https://harperami-choir.web.app/kanimo-igasa/2.mp4",
+            "tenor": "https://harperami-choir.web.app/kanimo-igasa/3.mp4",
+            "bass": "https://harperami-choir.web.app/kanimo-igasa/4.mp4",
+            "satb": "https://harperami-choir.web.app/kanimo-igasa/5.mp4"
+        }
+    ]
+}
